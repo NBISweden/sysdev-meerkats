@@ -3,21 +3,14 @@
 The name of the project with a short description. This section should give enough information 
 for a reader to quickly understand what the project does, why it exists, and whether it is relevant to them.
 
-## Purpose
+## Purpose and value
 
-Describe the purpose of the project. Include, for example:
+Describe the purpose and value of the project. Include, for example:
 
 - What problem the system solves
 - What need or use case led to its development
 - What the system is intended to be used for
-
-## Value
-
-Describe the value of the project. Include, for example:
-
-- Who benefits from the system
-- What becomes easier, better, or more efficient because of it
-- Why the project is worth maintaining or further developing
+- Target audience, who benefits from the system?
 
 ## Documentation References
 
@@ -27,6 +20,7 @@ Examples:
 
 - System or architecture documentation
 - Deployment guide
+- Operations guide
 - ADRs (Architecture Decision Records)
 - User guides
 - External references
@@ -86,11 +80,6 @@ Describe how to run quality checks, such as testing, linting and formatting.
 ### Good Practices
 
 Collect practical advice for developers working on the project.
-
-
-## Operations / Deployment
-
-Describe how the system is operated and deployed.
 
 
 ## Attribution
