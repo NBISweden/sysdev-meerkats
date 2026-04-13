@@ -1,7 +1,8 @@
 # Project Name
 
-The name of the project with a short description. This section should give enough information 
-for a reader to quickly understand what the project does, why it exists, and whether it is relevant to them.
+The name of the project with a short description. This section should
+give enough information for a reader to quickly understand what the
+project does, why it exists, and whether it is relevant to them.
 
 ## Purpose and value
 
@@ -31,9 +32,10 @@ Describe how to get started with the project as quickly as possible.
 
 ### Prerequisites
 
-List the required tools, software, accounts, or environment dependencies.
+List the required tools, software, accounts, or environment
+dependencies.
 
-Example:
+Examples:
 
 - Git
 - Docker
@@ -42,7 +44,7 @@ Example:
 
 Describe how to install and set up the project locally.
 
-```bash
+``` bash
 git clone <repository-url>
 cd <project-name>
 <install-command>
@@ -50,9 +52,11 @@ cd <project-name>
 
 ### Basic Usage
 
-Describe how to start or run the project locally. Example:
+Describe how to start or run the project locally.
 
-```bash
+Example:
+
+``` bash
 <run-command>
 ```
 
@@ -69,9 +73,10 @@ For example:
 
 ### Running Checks
 
-Describe how to run quality checks, such as testing, linting and formatting.
+Describe how to run quality checks, such as testing, linting and
+formatting.
 
-```bash
+``` bash
 <test-command>
 <lint-command>
 <format-command>
@@ -81,13 +86,10 @@ Describe how to run quality checks, such as testing, linting and formatting.
 
 Collect practical advice for developers working on the project.
 
-
 ## Attribution
 
 - Who developed the system (NBIS)?
-
 - For who and why was the system developed?
-
 - Where does the funding come from?
 
 ## License
@@ -101,5 +103,4 @@ Examples:
 - GPL-3.0
 - Internal / restricted use
 
----
-
+------------------------------------------------------------------------
